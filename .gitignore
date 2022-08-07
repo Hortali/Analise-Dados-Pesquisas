@@ -1,5 +1,6 @@
 ## Arquivo - Resultado da pesquisa
 *.xlsx
+*.ipynb
 
 ## Arquivos MAC
 *.DS_Store
